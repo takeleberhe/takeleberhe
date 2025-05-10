@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takeleberhe&label=Profile%20views&color=0e75b6&style=flat" alt="takeleberhe" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **React Native,MERN**
+- 💬 Ask me about **java,Spring Boot,MERN**
 
 - 📫 How to reach me **takelemit25@gmail.com**
 
