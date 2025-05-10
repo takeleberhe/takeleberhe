@@ -19,7 +19,7 @@
 - 📚 I love learning and applying new technologies in real-world projects.
 - 💬 Ask me about `Java`, `Spring Boot`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`, `Kafka`, and more.
 - 📫 Reach me at **takelemit25@gmail.com**
-- ⚡ Fun Fact: I add humor to every code review 😄
+
 
 ---
 
